@@ -2,6 +2,7 @@
   "name": "react-portfolio-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fatumoabdullahi.github.io/react_portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
@@ -12,6 +13,7 @@
     "@testing-library/react": "^12.1.3",
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
+    "gh-pages": "^4.0.0",
     "gsap": "npm:@gsap/member@^3.10.4",
     "gsap-trial": "^3.9.0",
     "leaflet": "^1.7.1",
